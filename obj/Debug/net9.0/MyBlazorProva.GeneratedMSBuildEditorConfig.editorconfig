@@ -48,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/keyllacristina/Documents/curriculo-interativo-blazor/Pages/index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvaW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/keyllacristina/Documents/curriculo-interativo-blazor/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
