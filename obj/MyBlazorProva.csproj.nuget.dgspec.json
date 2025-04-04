@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/keyllacristina/Documents/MyBlazorProva/MyBlazorProva.csproj": {}
+    "/Users/keyllacristina/Documents/curriculo-interativo-blazor/MyBlazorProva.csproj": {}
   },
   "projects": {
-    "/Users/keyllacristina/Documents/MyBlazorProva/MyBlazorProva.csproj": {
+    "/Users/keyllacristina/Documents/curriculo-interativo-blazor/MyBlazorProva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/keyllacristina/Documents/MyBlazorProva/MyBlazorProva.csproj",
+        "projectUniqueName": "/Users/keyllacristina/Documents/curriculo-interativo-blazor/MyBlazorProva.csproj",
         "projectName": "MyBlazorProva",
-        "projectPath": "/Users/keyllacristina/Documents/MyBlazorProva/MyBlazorProva.csproj",
+        "projectPath": "/Users/keyllacristina/Documents/curriculo-interativo-blazor/MyBlazorProva.csproj",
         "packagesPath": "/Users/keyllacristina/.nuget/packages/",
-        "outputPath": "/Users/keyllacristina/Documents/MyBlazorProva/obj/",
+        "outputPath": "/Users/keyllacristina/Documents/curriculo-interativo-blazor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/keyllacristina/.nuget/NuGet/NuGet.Config"
